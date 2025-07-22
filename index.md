@@ -6,6 +6,12 @@ Engineer at CERN | MSc in Machine Learning | AI Enthusiast
 
 ---
 
+## About me
+
+I'm a Software Engineer working at CERN and currently pursuing a MSc in Machine Learning.
+
+---
+
 ## Selected Projects
 
 ### [ES Tweet Emotion Classifier](https://github.com/mifercru99/multilabel-tweet-emotions)

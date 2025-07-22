@@ -2,8 +2,6 @@
 title: "Portfolio – Miguel Fernandez Cruchaga"
 layout: default
 ---
-# Miguel Fernández Cruchaga
-
 Engineer at CERN | MSc in Machine Learning | AI Enthusiast
 
 ---

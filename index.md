@@ -14,7 +14,7 @@ I'm a Software Engineer working at CERN and currently pursuing a MSc in Machine 
 
 ## Selected Projects
 
-### [Probe detection on elios 3 drone images](https://github.com/mifercru99/multilabel-tweet-emotions](https://github.com/mifercru99/elios3-probe-detection)
+### [Probe detection on elios 3 drone images](https://github.com/mifercru99/elios3-probe-detection)
 This repository contains a deep learning pipeline to detect a single class, the ultrasonic probe, in Elios3 drone images.
 
 ### [ES Tweet Emotion Classifier](https://github.com/mifercru99/multilabel-tweet-emotions)
